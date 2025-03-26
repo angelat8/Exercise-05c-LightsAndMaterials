@@ -1,5 +1,5 @@
 # Exercise-05c-LightsAndMaterials
-
+Using different textures and lights.
 
 ## Implementation
 
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Angela Tan
